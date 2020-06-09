@@ -18,12 +18,12 @@
       "es2018",
       "dom"
     ],
-    "path":{
+    "paths": {
       "@environments/*":["./src/environments/*"],
       "@assets/*":["./src/assets/*"],
       "@scss/*":["./src/assets/scss/*"],
-      "@pages/*":["./app/pages/*"],
-      "@shared/*":["./app/shared/*"]
+      "@pages/*":["./src/app/pages/*"],
+      "@shared/*":["./src/app/shared/*"]
     }
   }
 }
